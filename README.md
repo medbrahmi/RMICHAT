@@ -12,9 +12,11 @@ USAGE - Open 3 terminal instances :
     rmiregistry
    
   Second terminal :
+  
     java Server.ChatServerMain
     
   Third terminal :
+  
     java Client.ChatClientMain "Chosen Name"
     
   and then type a message to be displayed by the server side
